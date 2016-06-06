@@ -1,7 +1,7 @@
 Disk Secure Erase Workflow Support
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Secure Erase (SE) also known as a wipe is to destory data on a disk so that data can't or is difficult to be retrived. RackHD implements solution to do disk Secure Erase.
+Secure Erase (SE) also known as a wipe is to destory data on a disk so that data can't or is difficult to be retrieved. RackHD implements solution to do disk Secure Erase.
 
 Disk Secure Erase Workflow API
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -37,7 +37,7 @@ Use below command to stop the active workflow to cancel secure erase workflow:
 Disk Secure Erase Workflow Payload
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Parameters descriptions of secure workflow payload are listed below.
+Parameters descriptions of secure erase workflow payload are listed below.
 
 =================== ================ ============ ============================================
 Parameters          Type              Flags       Description
